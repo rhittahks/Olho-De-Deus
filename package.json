@@ -1,0 +1,26 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "g-i-s": "^2.1.6",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhittahks/Olho-De-Deus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rhittahks/Olho-De-Deus/issues"
+  },
+  "homepage": "https://github.com/rhittahks/Olho-De-Deus#readme",
+  "description": ""
+}
